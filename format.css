@@ -1,0 +1,31 @@
+
+  
+  .container{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+  font-size: 25px;
+  margin: 110px;
+    height: 200px;
+  width: 140px;
+  }
+  input.equal{
+    width: 140px;
+    background-color: indianred;
+  }
+  .calculator{
+    width: 130px;
+    height: 30px;
+    
+  }
+  .button{
+   width: 30px;
+   height: 30px;
+   color: green ;
+  }
+  .body{
+    background-color: grey;
+  }
